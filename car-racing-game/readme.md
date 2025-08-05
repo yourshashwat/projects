@@ -7,9 +7,7 @@ A fun and addictive 2D car racing game built using **HTML**, **CSS**, and **Java
 
 ## 🔗 Live Demo
 
-🎮 Play the game here: [Click to Play on Netlify](https://your-netlify-url.netlify.app)
-
-> Replace the link with your actual Netlify deployment URL.
+🎮 Play the game here: [Click to Play on Netlify](https://car-game-19.netlify.app/)
 
 ---
 
